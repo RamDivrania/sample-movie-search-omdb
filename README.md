@@ -1,3 +1,14 @@
+## Movie-Search-App
+
+Movie search project based on OMDB Api.
+
+Dependencies : 
+- NodeJs
+- Express
+- MongoDB & Mongoose
+- Jest.Js
+- Angular
+- Docker-Compose
 ## Docker Databases & API
 
 If you don't want to install mongodb, dependecies and create all database or API service manually, you can create docker container with all you need already installed.
