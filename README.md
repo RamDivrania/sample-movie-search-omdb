@@ -9,6 +9,8 @@ Dependencies :
 - Jest.Js
 - Angular
 - Docker-Compose
+- TypeScript
+
 ## Docker Databases & API
 
 If you don't want to install mongodb, dependecies and create all database or API service manually, you can create docker container with all you need already installed.
